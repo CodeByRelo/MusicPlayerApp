@@ -1,7 +1,7 @@
 # 🎵 Web Music Player
 
 A sleek and responsive web-based music player built with **HTML**, **CSS**, and **JavaScript**.  
-Designed during my internship at **HexSoftwares** to practice DOM manipulation, event handling, and custom UI components.
+DOM manipulation, event handling, and custom UI components.
 
 ## ✨ Features
 
@@ -35,10 +35,6 @@ Designed during my internship at **HexSoftwares** to practice DOM manipulation, 
 - style.css – all player styling  
 - script.js – player logic and interactivity  
 - assets/music/ – contains royalty-free or licensed tracks
-
-## 🙌 Special Thanks
-
-Big thanks to **HexSoftwares** for the internship opportunity and support during this build! 👨‍💻
 
 ## 🚀 Future Ideas
 
